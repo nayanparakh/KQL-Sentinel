@@ -1,0 +1,2 @@
+# KQL-Sentinel
+KQL-Sentinel
